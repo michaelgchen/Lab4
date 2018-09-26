@@ -185,7 +185,7 @@ public class Colosseum {
         firstPokemon = buildPokemon();
         //firstPokemon.name = "Chuchu";
 
-        System.out.println("");
+        System.out.println(M"");
 
         System.out.println("Player 2, build your Pokemon!");
         System.out.println("==================");
